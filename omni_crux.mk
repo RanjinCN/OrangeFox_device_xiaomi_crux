@@ -24,7 +24,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := crux
-PRODUCT_NAME := omni_crux
+PRODUCT_NAME := twrp_crux
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Xiaomi Mi 9 Pro 5G
 PRODUCT_MANUFACTURER := Xiaomi
